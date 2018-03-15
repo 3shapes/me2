@@ -1,0 +1,11 @@
+/* Style sheet */
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 15px;
+}
+
+.main_content_column {
+  width: 50%;
+  height:100%;  
+}
